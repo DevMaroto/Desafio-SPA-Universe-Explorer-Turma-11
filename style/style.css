@@ -1,0 +1,130 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --hue: 240;
+
+  --text-nav: hsla(240, 7%, 78%, 1);
+  --text-nav-hover: hsla(0, 0%, 100%, 1);
+
+  --bg-button: color: transparent;
+  --bg-button-hover: hsla(0, 0%, 100%, 1);
+  --fc-button: hsla(0, 0%, 100%, 1);
+  --fc-button-hover: hsla(194, 97%, 31%, 1);
+
+  --fs-body: 1.6rem;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 62.5%;
+
+}
+
+body {
+  background: url(/assets/mountains-universe-home.png) center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+}
+
+
+#app button {
+  color: var(--fc-button);
+  background: var(--bg-button);
+  padding: 1.2rem 3.2rem;
+  border-radius: 5px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.4rem;
+  text-transform: uppercase;
+  margin-top: 2.4rem;
+}
+
+#app button:hover {
+  color: var(--fc-button-hover);
+  background: var(--bg-button-hover);
+}
+
+nav {
+ display: flex;
+ gap: 5.3rem;
+ margin: 4.0rem 71.9rem 4.0rem 7.2rem;
+ align-items: center;
+}
+
+a {
+  color: var(--text-nav);
+  font-size: 2.4rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+a:hover {
+  color: var(--text-nav-hover);
+  font-weight: 700;
+}
+
+ #app h1 {
+  
+  color: var(--fc-button);
+  font-size: 4.8rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 125%; /* 60px */
+}
+
+#app #container-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#app #container-logo h1 {
+  margin-top: 18.2rem
+}
+
+#app #container-home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#app #container-home h1 {
+  margin-top: 18.2rem
+}
+
+#container-universe {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  margin-left: 10.2rem;
+  width: 64.8rem;
+  height: 20.3rem;
+}
+
+#container-universe h1 {
+  margin-top: 6.3rem;
+}
+
+#container-exploration {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+  margin-left: 10.2rem;
+  width: 64.8rem;
+  height: 20.3rem;
+}
+
+#container-exploration h1 {
+  margin-top: 6.3rem;
+}
+
+.paragraph {
+  color: var(--text-nav);
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 160%; /* 28.8px */
+}
