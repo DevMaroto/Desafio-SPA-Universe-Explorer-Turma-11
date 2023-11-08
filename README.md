@@ -2,10 +2,13 @@
 <p align="center"> Site criado com conceitos de SPA </p>
 
 
-## (New Focus Timer)
-https://github.com/DevMaroto/Focus-Timer-New-Version-Explorer-Turma-11/assets/88672028/249d49b0-9230-45c5-b887-2bbac8a68970
+## (SPA Universe)
+https://github.com/DevMaroto/Desafio-SPA-Universe-Explorer-Turma-11/assets/88672028/f7850747-15cd-4da2-a22c-b4b2ac3df1db
 
 <br>
+
+
+
 
 ## 🚀 Tecnologias
 
@@ -15,13 +18,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Temas do Projeto
 
 - Aprimoramento de conceitos em HTML, CSS e JAVASCRIPT.
-- [Acesse o projeto finalizado, online](https://devmaroto.github.io/Focus-Timer-New-Version-Explorer-Turma-11/)
+- Conceitos de SPA;
+- Mapeamento de rotas;
+- Assíncrono e promises;
+- Orientação a objetos;
+- Classes e muito mais.
+- [Acesse o projeto finalizado, online]()
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do novo projeto completo [CLICANDO AQUI](https://www.figma.com/file/nBHHTVSbfMfLqjXGWBtvE0/Focus-Timer-V2-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=0-1&mode=design&t=aBVoBd1oHrToQ7jb-0)
+Você pode visualizar o layout do novo projeto completo [CLICANDO AQUI](https://www.figma.com/file/JxHwCmyion2xoKMAik0ESC/%5BDesafios-Explorer%5D-SPA-Universe-(Copy)?type=design&node-id=0-1&mode=design&t=v51Or0G4KwbQPZaF-0)
 <br>
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
