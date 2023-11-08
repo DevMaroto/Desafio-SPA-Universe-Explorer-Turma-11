@@ -26,7 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Assíncrono e promises;
 - Orientação a objetos;
 - Classes e muito mais.
-- [Acesse o projeto finalizado, online]()
 
 ## 🔖 Layout
 
